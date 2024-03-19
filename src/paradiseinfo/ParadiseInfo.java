@@ -22,5 +22,5 @@ public class ParadiseInfo {
         System.out.println("Paradise Day Spa whats to pamper you.");
         System.out.println("We will make you look good."); 
     }
-    
+    //Adding a line of code
 }
