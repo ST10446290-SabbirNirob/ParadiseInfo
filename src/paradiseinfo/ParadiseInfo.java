@@ -20,7 +20,9 @@ public class ParadiseInfo {
     }
     public static void displayInfo(){
         System.out.println("Paradise Day Spa whats to pamper you.");
-        System.out.println("We will make you look good."); 
+        System.out.println("We will make you look good.");
+        System.out.println("I am adding this new line of code."); 
     }
-    //Adding a line of code
+    //Adding a line of code\
+    
 }
